@@ -5,7 +5,7 @@ helm:
     fullnameOverride: "rancher-demo"
     env:
       SHOW_VERSION: true
-      COW_COLOR: "yellow"
+      COW_COLOR: "green"
       SKIP_ERRORS: true
     ingress:
       hosts:
